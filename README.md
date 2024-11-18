@@ -2,7 +2,7 @@
 
 This repository automatically scrapes, aggregates, and updates a dataset comprising the Federal Reserve's FOMC meeting statements and minutes, providing a robust historical view of changes in U.S. monetary policy over time.
 
-The scraper operates via a scheduled GitHub Actions workflow, which periodically polls the Federal Reserve's website for new statements and minutes as they become available. For more information on the workflow, please see [the GitHub Actions workflow].
+The scraper operates via a scheduled GitHub Actions workflow, which periodically polls the Federal Reserve's website for new statements and minutes as they become available.
 
 The dataset spans communications from the year 2000 onward, with the data presented exactly as found on the Federal Reserve's website.
 
